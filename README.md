@@ -43,12 +43,8 @@ My work sits at the intersection of visual polish and backend reliability — no
 
 <img src="https://raw.githubusercontent.com/unDemian/unDemian/refs/heads/main/cursor%201.jpeg" width="380" alt="Cursor Button keycap" />
 
-I use AI tools heavily and deliberately: for speed, for exploring edge cases, and for the parts of the stack I haven't touched in a while (looking at you, that one AWS service).
-
 ---
 
 ## What I Actually Care About
-
-UI details that most engineers skip. Query performance. Systems that don't surprise you on-call. Making something that looks intentional, not assembled.
 
 If a button feels off, I'll fix it. If the p99 latency spikes under load, I want to know why.
