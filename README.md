@@ -41,8 +41,3 @@ Full Stack Engineer, 15+ years in. I care equally about the UI people see and th
 
 <img src="https://raw.githubusercontent.com/unDemian/unDemian/refs/heads/main/cursor%201.jpeg" width="380" alt="Cursor Button keycap" />
 
----
-
-## What I Actually Care About
-
-If a button feels off, I'll fix it. If the p99 latency spikes under load, I want to know why.
