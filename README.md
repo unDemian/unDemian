@@ -41,7 +41,7 @@ My work sits at the intersection of visual polish and backend reliability — no
 
 **🖱 Cursor Button** — Top 1% Cursor IDE user globally. Cursor ships a physical keycap to the top users; mine's sitting next to my keyboard.
 
-<img src="./cursor_1.jpeg" width="380" alt="Cursor Button keycap" /> <img src="./cursor_2.jpeg" width="380" alt="Cursor 2025 stats" />
+<img src="https://raw.githubusercontent.com/unDemian/unDemian/refs/heads/main/cursor%201.jpeg" width="380" alt="Cursor Button keycap" /> <img src="https://raw.githubusercontent.com/unDemian/unDemian/refs/heads/main/cursor%202.jpeg" width="380" alt="Cursor 2025 stats" />
 
 I use AI tools heavily and deliberately: for speed, for exploring edge cases, and for the parts of the stack I haven't touched in a while (looking at you, that one AWS service).
 
