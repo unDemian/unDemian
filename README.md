@@ -31,7 +31,7 @@ Full Stack Engineer, 15+ years in. I care equally about the UI people see and th
 | 🏆 Winner | Fintech 2.0 National Hackathon, organized by Bank of Cyprus |
 | 🏆 Winner | Startup Weekend, organized by StartupHub |
 | 🥉 3rd Place | International Hackathon, organized by Koding.com |
-| 🎖 Finalist | Cloud Developer Challenge, organized by Google |
+| 🎖 Finalist | International Cloud Developer Challenge, organized by Google |
 
 ---
 
