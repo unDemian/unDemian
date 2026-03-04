@@ -2,8 +2,6 @@
 
 Full Stack Engineer, 15+ years in. I care equally about the UI people see and the architecture that keeps it running at 3am.
 
-My work sits at the intersection of visual polish and backend reliability — not one or the other. I'll obsess over a hover state in the morning and tune a query plan in the afternoon.
-
 ---
 
 ## What I Build With
